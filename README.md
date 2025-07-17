@@ -1,7 +1,6 @@
 # 📘 Darbas su sertifikatais | OpenSSL
 
-This document provides a curated list of OpenSSL commands for inspecting, generating, and verifying TLS/SSL certificates.
-
+Šis dokumentas pateikia kruopščiai atrinktą OpenSSL komandų sąrašą, skirtą TLS/SSL sertifikatų tikrinimui, generavimui ir patvirtinimui.
 ---
 
 ## 🔍 Sertifikato tikrinimas
